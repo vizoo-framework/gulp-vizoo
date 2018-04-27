@@ -1,0 +1,24 @@
+{
+  "author": {
+    "email": "wallrio@gmail.com",
+    "name": "Wallace Rio"
+  },
+  "description": "Biblioteca Javascript para desenvolvimento de aplicações e sites",
+  "homepage": "https://github.com/VFK/gulp-html-replace#readme",
+  "keywords": [
+    "gulpplugin",
+    "javascript"
+  ],
+  "license": "MIT",
+  "main": "./lib/index.js",
+  "name": "gulp-vizoo",
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/raizjs/gulp-vizoo.git"
+  },
+  "version": "0.0.1",
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  },
+}
