@@ -94,3 +94,5 @@ Content will be replaced with the vizco scripts
 </body>
 </html>
 ```
+
+> Attention: insert the attribute on tag HTML: data-vizoo-theme="THEME-NAME"
