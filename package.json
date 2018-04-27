@@ -6,8 +6,7 @@
   "description": "Add Vizoo script and inline plugins into HTML document",
   "homepage": "https://vizoo.online",
   "keywords": [
-    "gulpplugin",
-    "javascript"
+    "vizoo, framework, vizoo-framework, inline"
   ],
   "license": "MIT",
   "main": "./lib/index.js",
@@ -20,5 +19,5 @@
   "version": "0.0.1",
   "devDependencies": {
     "gulp": "^3.9.1"
-  },
+  }
 }
