@@ -17,7 +17,8 @@
     "url": "git+https://github.com/vizoo-framework/gulp-vizoo.git"
   },
   "version": "0.0.5",
-  "devDependencies": {
-    "gulp": "^3.9.1"
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "readable-stream": "^2.3.6"
   }
 }
